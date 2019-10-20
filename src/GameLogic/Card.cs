@@ -145,6 +145,7 @@ namespace CardGames.GameLogic
 
             }
         }
+
         
         /// <summary>
         /// Returns a <see cref="System.String"/> that represents the current <see cref="CardGames.Card"/>. This will have
